@@ -121,3 +121,8 @@ For example you have a module deployed by its master branch and want to track it
 .. code-block:: python
 
    puppetfile.update_git_module('mymodule', '1.0.0', reference_type='tag')
+
+
+.. image:: https://api.codacy.com/project/badge/Grade/d623937acf48414999830485dcfffa15
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/app/othalla/py-control-repository?utm_source=github.com&utm_medium=referral&utm_content=othalla/py-control-repository&utm_campaign=Badge_Grade_Dashboard
